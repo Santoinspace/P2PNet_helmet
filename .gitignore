@@ -1,0 +1,10 @@
+/__pycache__
+/weights
+/logs
+/crowd_datasets/__pycache__
+/crowd_datasets/SHHA/__pycache__
+/models/__pycache__
+/util/__pycache__
+/README.md
+/vis/*.png
+/vis/*.jpg
